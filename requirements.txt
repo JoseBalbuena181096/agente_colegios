@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+langchain
+langgraph
+langchain-google-genai>=4.2.0
+langchain-openai>=0.3.0
+apify-client
+pydantic
+supabase>=2.9.0
